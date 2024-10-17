@@ -741,12 +741,12 @@ button.btn.btn-primary, button.btn.btn-primary:hover, button.btn.btn-primary:foc
 
 .about_bt {
     text-align: center; /* This centers the button horizontally */
-    margin-top: 20px; /* Adjust the margin to control the space above the button */
+    margin-top: 10px; /* Adjust the margin to control the space above the button */
 }
 
 .more_bt {
     display: inline-block;
-    padding: 10px 20px;
+    padding: 0px 10px;
     background-color: #000000;
     color: #fff;
     text-decoration: none;
